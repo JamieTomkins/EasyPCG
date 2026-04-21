@@ -4,7 +4,10 @@
 
 A MonoGame based 2D game terrain generator which utalises a 3-layered noise system to create a variety of different terrain types.
 
+![image of an example map generated using EasyPCG]https://github.com/JamieTomkins/EasyPCG/blob/main/Images/ExampleMap.png
+
 USER GUIDE:
+
 EXPRESS DOWNLOAD (recommended)
 1. Go to releases page and download latest release (v1.0)
 2. Extract ZIP (select extract all)
