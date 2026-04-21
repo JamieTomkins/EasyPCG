@@ -7,10 +7,10 @@ A MonoGame based 2D game terrain generator which utalises a 3-layered noise syst
 ### Example Map Generated using EasyPCG
 ![image of an example map generated using EasyPCG](https://github.com/JamieTomkins/EasyPCG/blob/main/Images/ExampleMap.png)
 
-## UI layout
+### UI layout
 ![Image of UI in EasyPCG](https://github.com/JamieTomkins/EasyPCG/blob/main/Images/UIExample.png)
 
-USER GUIDE:
+### USER GUIDE:
 
 EXPRESS DOWNLOAD (recommended)
 1. Go to releases page and download latest release (v1.0)
